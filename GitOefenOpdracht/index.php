@@ -17,11 +17,13 @@
     <h1>Git Oefenopdracht</h1><br>
    
     <h2>
-        Actuele datum en tijd
+        <?php
+            echo time();
+        ?>
     </h2><br>
 
     <p>
-        Je naam
+        Bas ten Camp
     </p>
 
     </div>
